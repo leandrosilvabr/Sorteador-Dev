@@ -18,6 +18,6 @@
 
 <img src="https://github.com/leandrosilvabr/Sorteador-Dev/blob/main/img/Sorteador%20responsivo.png?raw=true">
 <p>Segue o link para vocês da uma conferida; 
-https:///
+https://6674f47cedf85b1582ad5c08--amazing-sprite-8e1752.netlify.app/
 <br>
 <p>Projeto responsivo, multiletla.</p>
